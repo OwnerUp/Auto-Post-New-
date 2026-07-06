@@ -169,9 +169,11 @@ Loss Cut Book Set At 10P 💸💸
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Plat at -- Www.Khelking.com"""
+Plat at -- Www.Khelking.com
 
-return text, promo1, None
+👉 GAME CHANGER ( Abhi ) 💠"""
+
+    return text, promo1, None
 
 # =========================================
 # GUDDU
