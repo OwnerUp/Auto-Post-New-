@@ -80,6 +80,13 @@ WAIT FOR BEST ENTRY
 
 Loss Cut Book Set At 10P 💸💸
 
+Only One Khelking vip id💯
+http://wa.link/khelkingvipho
+
+PLACE YOUR BETS INDIA'S MOST 
+TRUSTED BOOK MAKE YOUR ID NOW
+http://Www.Khelking.com 🔜
+
 👉 GAME CHANGER ( Abhi ) 💠"""
 
     return caption, promo
