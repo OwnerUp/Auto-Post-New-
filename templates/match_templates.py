@@ -166,6 +166,11 @@ WAIT FOR BEST ENTRY
 
 Loss Cut Book Set At 10P 💸💸
 
+🆔LELO YAHA SE OR LIMIT RADDY
+RAKHO 👇
+
+Plat at -- Www.Khelking.com"""
+
 👉 GAME CHANGER ( Abhi ) 💠"""
 
     return text, promo1, None
