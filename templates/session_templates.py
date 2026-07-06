@@ -24,7 +24,7 @@ def royal_session_pass(over, result):
 
 def royal_session_loss():
     return " SESSION APNA LOSS RAHA ❌ 
-    KOI BAAT NHI ABHI COVAR HO JAYEGA "
+    KOI BAAT NHI ABHI COVAR HO JAYEGA """
 
 # =========================================
 
