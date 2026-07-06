@@ -171,11 +171,7 @@ RAKHO 👇
 
 Plat at -- Www.Khelking.com"""
 
-MATCH_TEMPLATE = """
-👉 GAME CHANGER ( Abhi ) 💎 ***
-"""
-
-    return text, promo1, None
+return text, promo1, None
 
 # =========================================
 # GUDDU
