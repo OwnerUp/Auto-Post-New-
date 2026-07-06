@@ -23,8 +23,7 @@ def royal_session_pass(over, result):
     return f"{result} 🅿️🅰️💲💲✔️\n\n{over} OVER 👑\n\nSESSIONS PASS 💸❤️"
 
 def royal_session_loss():
-    return " SESSION APNA LOSS RAHA ❌ 
-    KOI BAAT NHI ABHI COVAR HO JAYEGA """
+    return """SESSION APNA LOSS RAHA ❌"""
 
 # =========================================
 
