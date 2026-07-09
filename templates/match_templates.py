@@ -256,6 +256,9 @@ Rocky bhai (Trending King) 💠"""
 
 If Everything Is Yours, Then There Is Only One Side Of The Coin, "Victory"✔️
 
+Ragister & Bet
+Www.Khelking.com
+
 Rocky bhai (Trending King) 💠"""
 
     return text, promo1, None
