@@ -81,10 +81,10 @@ def game_session_loss():
 
 def guddu_session(over, run, call):
     emoji = session_call_emoji(call)
-    return f"🔱 MAHADEV KRIPA 🔱\n\n{run} RUN\n\n{call} KARO {emoji}\n\n{over} OVER"
+    return f" ✔️ DUDDU PANDIT CALL ✔️ \n\n{run} RUN\n\n{call} KARO {emoji}\n\n{over} OVER"
 
 def guddu_session_pass(result):
-    return f"{result} 💰💰✔️\n\nSESSIONS PASS 🔱\n\nHAR HAR MAHADEV ❤️"
+    return f"{result} PASS 💰💰\n\nSESSIONS PASS 🔱\n\nHAR HAR MAHADEV ❤️"
 
 def guddu_session_loss():
     return "LOSS ❌ NEXT SESSION PASS HOGA "
