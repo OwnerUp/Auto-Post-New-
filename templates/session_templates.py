@@ -39,7 +39,7 @@ def betting_session_pass(result):
     return f"{result} 🅿️🅰️💵💵✔️✔️\n\nSESSIONS PASS 💰🔥\n\n💫 🅱𝗢𝗢Ⓜ️ 💫 🅱𝗢𝗢Ⓜ"
 
 def betting_session_loss():
-    return "LOSS ❌"
+    return "LOSS ACCEPTED ❌"
 
 # =========================================
 
@@ -55,7 +55,7 @@ def batman_session_pass(result):
     return f"{result} 🅿️🅰️💵💵✔️\n\nSESSIONS PASS ✊"
 
 def batman_session_loss():
-    return "LOSS ❌"
+    return "SESSION LOSS ❌"
 
 # =========================================
 
@@ -71,7 +71,7 @@ def game_session_pass(result):
     return f"{result} 💸💸✔️\n\nSESSIONS PASS 🎯\n\nTARGET HIT 🔥"
 
 def game_session_loss():
-    return "LOSS ❌"
+    return "TARGET MISS ❌ LOSS SESSION"
 
 # =========================================
 
@@ -87,7 +87,7 @@ def guddu_session_pass(result):
     return f"{result} 💰💰✔️\n\nSESSIONS PASS 🔱\n\nHAR HAR MAHADEV ❤️"
 
 def guddu_session_loss():
-    return "LOSS ❌"
+    return "LOSS ❌ NEXT SESSION PASS HOGA "
 
 # =========================================
 
@@ -151,7 +151,7 @@ def king_session_pass(result):
     return f"{result} 💲💲✔️\n\nSESSIONS PASS 👑\n\nKING ENTRY ❤️"
 
 def king_session_loss():
-    return "LOSS ❌"
+    return "LOSS ❌KING EK BAAR HAARA HAI ❌"
 
 # =========================================
 
@@ -167,7 +167,7 @@ def angad_session_pass(result):
     return f"{result} ✔️\n\nSESSIONS PASS ⚔️\n\nDADA POWER 🔥"
 
 def angad_session_loss():
-    return "LOSS ❌"
+    return "MARKET LOSS ❌"
 
 # =========================================
 
