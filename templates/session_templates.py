@@ -17,7 +17,7 @@ def session_call_emoji(call):
 
 def royal_session(over, run, call):
     emoji = session_call_emoji(call)
-    return f"{over} OVER 🌐 {call} KARO {emoji}\n\n{run} RUN 🛡"
+    return f"{over} OVER 🌐 {call} KARO {emoji}\n\n{run} RUN 👍"
 
 def royal_session_pass(over, result):
     return f"{result} 🅿️🅰️💲💲✔️\n\n{over} OVER 👑\n\nSESSIONS PASS 💸❤️"
