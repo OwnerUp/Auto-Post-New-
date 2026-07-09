@@ -233,7 +233,7 @@ def rocky_match(
 
 ):
 
-    text = f"""🚀Welcome To Real Profit 🚀
+    text = f"""👇Welcome To Real Profit 👇
 
 👑 {league} 👑
 
