@@ -147,6 +147,9 @@ Rocky bhai (Trending King)💠"""
 
 If Everything Is Yours, Then There Is Only One Side Of The Coin, "Victory"✔️
 
+PLACE YOUR BETS INDIA'S MOST 
+TRUSTED BOOK http://Www.Khelking.com
+
 Rocky bhai (Trending King) 💠"""
 
     return caption, promo
