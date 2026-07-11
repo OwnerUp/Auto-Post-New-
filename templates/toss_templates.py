@@ -23,8 +23,8 @@ def royal_toss(team):
 Only One Khelking vip id💯
 http://wa.link/khelkingvipho
 
-PLACE YOUR BETS INDIA'S MOST 
-TRUSTED BOOK 
+PLACE YOUR BETS INDIA'S 
+MOST TRUSTED BOOK 
 http://Www.Khelking.com 🔜"""
 
     return caption, promo
