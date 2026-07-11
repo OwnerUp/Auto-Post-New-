@@ -52,6 +52,10 @@ ONLINE 🔸 BATMAN (Official) 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
 
+Ragister & Bet 🤑
+Www.Khelking.com ✔️
+Www.Khelking.com ✔️
+
 ONLINE 🔸 BATMAN (Official) 💠"""
 
     return caption, promo
