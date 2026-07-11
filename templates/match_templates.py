@@ -83,6 +83,14 @@ BATMAN (Official) 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
 
+For VIP Clients
+wa.link/khelkingvipho
+
+WAIT FOR BEST ENTRY
+
+Ragister & Bet
+Www.Khelking.com
+
 ONLINE 🔸 BATMAN (Official) 💠"""
 
     return text, promo1, None
