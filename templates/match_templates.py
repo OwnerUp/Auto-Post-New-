@@ -134,6 +134,11 @@ With Max Amount...
 
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
+For VIP Clients
+https://wa.link/stake888vipho
+
+Ragister & Bet
+https://www.stake888.games
 
 Play With :- @BettingKiings 💠"""
 
