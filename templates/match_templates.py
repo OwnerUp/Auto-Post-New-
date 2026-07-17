@@ -510,6 +510,10 @@ ONLY 🔻 RAHUL DADA 💠"""
 
 WAIT FOR BEST ENTRY 🕐
 
+🆔 LELO YAHA SE OR LIMIT RADDY
+RAKHO 👇
+Plat at -- Www.Khelking.com
+
 ONLY ➡️ RAHUL DADA 💠"""
 
     return text, promo1, None
