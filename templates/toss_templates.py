@@ -332,6 +332,13 @@ ONLY🔻RAHUL DADA 💠"""
 
 WAIT FOR BEST ENTRY 🕐
 
+🆔LELO YAHA SE OR LIMIT RADDY
+RAKHO 👑
+
+Plat at -- Www.Khelking.com
+Plat at -- Www.Khelking.com
+
+
 ONLY🔻RAHUL DADA 💠"""
 
     return caption, promo
