@@ -125,7 +125,7 @@ WAIT FOR BEST TRAINING ENTRY
 
 BOOK SET CAMPLSRY LOW ODDS ✅
 
-Play With :- @BettingKiings 💠"""
+Play With :- Betting King💠"""
 
     promo1 = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -140,7 +140,7 @@ https://wa.link/stake888vipho
 Ragister & Bet
 https://www.stake888.games
 
-Play With :- @BettingKiings 💠"""
+Play With :- Betting King 💠"""
 
     return text, promo1, None
 
@@ -218,7 +218,7 @@ WAIT FOR BEST TRAINING ENTRY
 
 BOOK SET CAMPLSRY LOW ODDS ✓
 
-Play With :- GUDDU PANDIIT✅"""
+Play With :- Guddu Pandit ✅"""
 
     promo1 = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -228,7 +228,7 @@ With Max Amount...
 YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Play With :- GUDDU PANDIT✅"""
+Play With :- Guddu Pandit ✅"""
 
     return text, promo1, None
 
