@@ -114,7 +114,7 @@ NO LIMIT TOSS ✔️
 
 BIG LIMIT SE PLAY KRO ✔️
 
-Play With :- Guddu Pandit ✅"""
+Play With :- Guddu Bhaiya ✅"""
 
     promo = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -124,7 +124,7 @@ With Max Amount...
 YAHA SE OR LIMIT RADDY
 RAKHO
 
-Play With :- GUDDU PANDIT✅"""
+Play With :- Guddu Bhaiya ✅"""
 
     return caption, promo
 
