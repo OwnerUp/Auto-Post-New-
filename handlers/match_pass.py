@@ -141,7 +141,7 @@ AGEN FUCK ALL MARKET🥳
 
 💥 Back to Back Pass 💥
 
-GUDDU PANDIT ✅"""
+Guddu Bhaiya ✅"""
 
             # =====================================
             # ROCKY
