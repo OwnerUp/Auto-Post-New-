@@ -597,7 +597,10 @@ WAIT FOR NEXT ENTRY ✅
 
 𝐎𝐍𝐋𝐘 👉 THE KING 💠"""
 
-    promo1 = f"""{winner} WIN THE MATCH
+    promo1 = f""" Ragister & Bet
+https://www.stake888.io
+    
+    {winner} WIN THE MATCH
 
 WAIT FOR BEST ENTRY 🕐
 
