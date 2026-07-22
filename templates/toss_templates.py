@@ -395,7 +395,10 @@ BIG LIMIT SE PLAY KRO✔️
 
 OWNER 🔻 THE KING 💠"""
 
-    promo = f"""{team} WIN THE TOSS
+    promo = f""" Ragister & Bet
+https://www.stake888.io
+    
+    {team} WIN THE TOSS
 
 WAIT FOR BEST ENTRY 🕐
 
@@ -431,7 +434,7 @@ With Max Amount...
 {team} Win This TOSS..!! 🤑✔️
 
 Ragister & Bet
-https://www.stake888.games
+https://www.stake888.io
 
 WAIT FOR BEST ENTRY ✔️
 
