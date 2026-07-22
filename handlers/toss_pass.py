@@ -144,7 +144,7 @@ Back To Back pass 🔻
 
 Back To Back pass 🔻
 
-Play With :- GUDDU PANDIT✅"""
+Play With :- Guddu Pandit ✅"""
 
             # =================================
             # ROCKY
