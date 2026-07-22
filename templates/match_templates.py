@@ -138,7 +138,7 @@ For VIP Clients
 https://wa.link/stake888vipho
 
 Ragister & Bet
-https://www.stake888.games
+https://www.stake888.io
 
 Play With :- Betting King 💠"""
 
@@ -218,7 +218,7 @@ WAIT FOR BEST TRAINING ENTRY
 
 BOOK SET CAMPLSRY LOW ODDS ✓
 
-Play With :- Guddu Pandit ✅"""
+Play With :- Guddu Bhaiya ✅"""
 
     promo1 = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -228,7 +228,7 @@ With Max Amount...
 YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Play With :- Guddu Pandit ✅"""
+Play With :- Guddu bhaiya ✅"""
 
     return text, promo1, None
 
